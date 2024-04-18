@@ -1,0 +1,23 @@
+{
+    "frames": {
+        "enemy1.png":
+        {
+            "frame": {"x":103,"y":1,"w":32,"h":32},
+            "spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+            "sourceSize": {"w":32,"h":32},
+            "anchor": {"x":16,"y":16}
+        } 
+
+    },
+
+    "animations": {
+        "enemy": ["enemy1.png","enemy2.png"]
+    },
+
+    "meta": {
+        "image": "rat.png",
+        "format": "RGBA8888",
+        "size": {"w":136,"h":102},
+        "scale": "1"
+    }
+}
